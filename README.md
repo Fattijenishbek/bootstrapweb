@@ -1,7 +1,7 @@
 # Web Basics Project
 ## This website will be useful for pizzeria. It is created based upon course about HTML/CSS/JS basics.
 ### There is a link to GitHub Page: 
-![Link][https://fattijenishbek.github.io/bootstrapweb/index.html]
+https://fattijenishbek.github.io/bootstrapweb/index.html
 
 ## 1.Home page
 ![fattijenishbek github io_bootstrapweb_index html](https://user-images.githubusercontent.com/57977808/96416241-93e5ff80-1211-11eb-835f-f2594ec5555b.png)
